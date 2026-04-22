@@ -9,7 +9,7 @@
 # FreshifyJS
 **Библиотека небольших пакетов и технологий**
 
-[![npm](https://img.shields.io/npm/dm/freshjs.svg)](https://www.npmjs.com/package/freshjs)
+[![npm](https://img.shields.io/npm/dm/freshjs.svg)](https://www.npmjs.com/org/freshifyjs)
 [![GitHub issues](https://img.shields.io/github/issues/Tr1gEr4you/freshjs)](https://github.com/Tr1gEr4you/freshjs/issues)
 
 ## 🚀 Быстрый старт
