@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Tr1gEr4you/freshjs/raw/main/assets/freshjs-logo.png" width="300" alt="FreshJS Logo">
+  <img src="https://github.com/freshifyjs/readme/blob/main/assets/freshjs-logo.png" width="300" alt="FreshJS Logo">
   <br><br>
   <img src="https://img.shields.io/npm/v/freshjs?style=for-the-badge&logo=npm" alt="NPM Version">
   <img src="https://img.shields.io/github/license/Tr1gEr4you/freshjs?style=for-the-badge&logo=github" alt="License">
